@@ -13,8 +13,8 @@ Por otro lado, y a modo de hobby, tengo cierto interés en el desarrollo web ya 
 
 ## Experiencia laboral
 
-* ***AdQuiver*** *Científico de datos:* Mis labores en este puesto fueron bastante diversas, desde aplicar modelos de marketing mix, elaboración de aplicaciones web con dash y diversas tareas de análisis de datos.
-* ***Satocan*** *Python developer:* Mi labor principal en este puesto fue elaborar un modelo de planificación de rutas de hormigoneras, un problema de logística. Adicionalmente, realicé labores típicas de analísis de datos, como la elaboración de cuadros de mando con qlikcloud, diversas ETLs para la detección de errores y la aplicación de modelos de agrupación.
+* *Científico de datos:* Mis labores en este puesto fueron bastante diversas, desde aplicar modelos de marketing mix, elaboración de aplicaciones web con dash y diversas tareas de análisis de datos.
+* *Python developer:* Mi labor principal en este puesto fue elaborar un modelo de planificación de rutas de hormigoneras, un problema de logística. Adicionalmente, realicé labores típicas de analísis de datos, como la elaboración de cuadros de mando con qlikcloud, diversas ETLs para la detección de errores y la aplicación de modelos de agrupación.
 
 ## Educación
 
