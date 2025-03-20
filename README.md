@@ -54,7 +54,7 @@ En el marco de ciencia de datos, proporciona conocimientos sobre buenas práctic
   <img src="https://www.r-project.org/Rlogo.png" alt="R" style="width: 15%;">
 </a>
 <a href="https://es.wikipedia.org/wiki/MariaDB">
-  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_black-transparent-300x75.png" alt="MariaDB/MySQL" style="width: 15%;">
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent-300x245.png" alt="MariaDB/MySQL" style="width: 15%;">
 </a>
 <a href="https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language">
   <img src="https://planning.wiki/favicon.ico" alt="PDDL" style="width: 15%;">
@@ -78,10 +78,10 @@ En el marco de ciencia de datos, proporciona conocimientos sobre buenas práctic
 <h3>Elaboración de documentos</h3>
 
 <a href="https://es.wikipedia.org/wiki/TeX">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/100px-TeX_logo.svg.png" alt="TeX" style="width: 15%;">
+  <img src="https://i.sstatic.net/zHFFO.png" alt="TeX" style="width: 15%;">
 </a>
 <a href="https://es.wikipedia.org/wiki/Markdown">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png" alt="Markdown" style="width: 15%;">
+  <img src="https://static-00.iconduck.com/assets.00/markdown-icon-256x256-p3zucesn.png" alt="Markdown" style="width: 15%;">
 </a>
 
 <h3>Sistemas Operativos</h3>
