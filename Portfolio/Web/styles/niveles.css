@@ -1,0 +1,72 @@
+.level-box-container {
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    min-height: 15px;
+}
+
+.level-box {
+    width: 60px;
+    height: 10px;
+    border-radius: 25%;
+    box-shadow: 0px 0px 5px black;
+}
+
+
+:root {
+    --green: radial-gradient(circle, rgba(36,179,50,1) 100%, rgba(255,255,255,1) 100%);
+    --yellow: radial-gradient(circle, rgba(230,230,0,1) 100%, rgba(255,255,255,1) 100%);
+    --red: radial-gradient(circle, rgba(205,61,61,1) 100%, rgba(255,255,255,1) 100%);
+}
+
+
+.colored {
+    background: var(--green);
+}
+
+.yellow {
+    background: var(--yellow);
+}
+
+.red {
+    background: var(--red);
+}
+
+
+li.li-green::before {
+    content: ""; /* No hay texto, solo el círculo */
+    display: inline-block; /* Para que se comporte como un bloque en línea */
+    width: 12px; /* Tamaño del círculo */
+    height: 12px; /* Tamaño del círculo */
+    background: var(--green);
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    margin-right: 10px; /* Espacio entre el círculo y el texto */
+    vertical-align: middle; /* Alineación vertical del círculo */
+    box-shadow: 0px 0px 3px black; /* Desplazamiento horizontal, desplazamiento vertical, difusa, color */
+}
+
+li.li-yellow::before {
+    content: ""; /* No hay texto, solo el círculo */
+    display: inline-block; /* Para que se comporte como un bloque en línea */
+    width: 12px; /* Tamaño del círculo */
+    height: 12px; /* Tamaño del círculo */
+    background: var(--yellow);
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    margin-right: 10px; /* Espacio entre el círculo y el texto */
+    vertical-align: middle; /* Alineación vertical del círculo */
+    box-shadow: 0px 0px 3px black; /* Desplazamiento horizontal, desplazamiento vertical, difusa, color */
+}
+
+li.li-red::before {
+    content: ""; /* No hay texto, solo el círculo */
+    display: inline-block; /* Para que se comporte como un bloque en línea */
+    width: 12px; /* Tamaño del círculo */
+    height: 12px; /* Tamaño del círculo */
+    background: var(--red);
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    margin-right: 10px; /* Espacio entre el círculo y el texto */
+    vertical-align: middle; /* Alineación vertical del círculo */
+    box-shadow: 0px 0px 3px black; /* Desplazamiento horizontal, desplazamiento vertical, difusa, color */
+}
