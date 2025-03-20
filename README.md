@@ -45,44 +45,83 @@ En el marco de ciencia de datos, proporciona conocimientos sobre buenas práctic
 
 ## Tecnologías
 
-### Ciencia de datos
+<h3>Ciencia de datos</h3>
 
-[![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)](https://es.wikipedia.org/wiki/Python)
-[![R](https://www.r-project.org/Rlogo.png)](https://es.wikipedia.org/wiki/R_\(lenguaje_de_programaci%C3%B3n\))
-[![MariaDB/MySQL](https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_black-transparent-300x75.png)](https://es.wikipedia.org/wiki/MariaDB)
-[![PDDL](https://planning.wiki/favicon.ico)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language)
+<a href="https://es.wikipedia.org/wiki/Python">
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)">
+  <img src="https://www.r-project.org/Rlogo.png" alt="R" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/MariaDB">
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_black-transparent-300x75.png" alt="MariaDB/MySQL" style="width: 15%;">
+</a>
+<a href="https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language">
+  <img src="https://planning.wiki/favicon.ico" alt="PDDL" style="width: 15%;">
+</a>
 
-### Desarrollo Web
+<h3>Desarrollo Web</h3>
 
-[![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png)](https://es.wikipedia.org/wiki/HTML)
-[![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png)](https://es.wikipedia.org/wiki/CSS)
-[![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png)](https://es.wikipedia.org/wiki/JavaScript)
-[![React](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" alt="logo-react"/>)](https://es.wikipedia.org/wiki/React)
+<a href="https://es.wikipedia.org/wiki/HTML">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" alt="CSS" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/React">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" alt="React" style="width: 15%;">
+</a>
 
-### Elaboración de documentos
+<h3>Elaboración de documentos</h3>
 
-[![TeX](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/100px-TeX_logo.svg.png)](https://es.wikipedia.org/wiki/TeX)
-[![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)](https://es.wikipedia.org/wiki/Markdown)
+<a href="https://es.wikipedia.org/wiki/TeX">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/100px-TeX_logo.svg.png" alt="TeX" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/Markdown">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png" alt="Markdown" style="width: 15%;">
+</a>
 
-### Sistemas Operativos
+<h3>Sistemas Operativos</h3>
 
-[![Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/102px-Tux.svg.png)](https://es.wikipedia.org/wiki/GNU/Linux)
-[![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/25px-Windows_logo_-_2021.svg.png)](https://es.wikipedia.org/wiki/Microsoft_Windows)
+<a href="https://es.wikipedia.org/wiki/GNU/Linux">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/102px-Tux.svg.png" alt="Linux" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/Microsoft_Windows">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/25px-Windows_logo_-_2021.svg.png" alt="Windows" style="width: 15%;">
+</a>
 
-## Herramientas
+<h2>Herramientas</h2>
 
-### Business Intelligence
+<h3>Business Intelligence</h3>
 
-[![PowerBI](https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png)](https://en.wikipedia.org/wiki/Microsoft_Power_BI)
-[![Qlik](https://res.cloudinary.com/talend/image/upload/q_auto/v1713297745/qlik/logos/logo-qlik_d49uek.svg)](https://en.wikipedia.org/wiki/Qlik)
+<a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="PowerBI" style="width: 15%;">
+</a>
+<a href="https://en.wikipedia.org/wiki/Qlik">
+  <img src="https://res.cloudinary.com/talend/image/upload/q_auto/v1713297745/qlik/logos/logo-qlik_d49uek.svg" alt="Qlik" style="width: 15%;">
+</a>
 
-### ETL
+<h3>ETL</h3>
 
-[![Matillion ETL](https://www.matillion.com/favicon-32x32.png)](https://www.matillion.com/)
+<a href="https://www.matillion.com/">
+  <img src="https://www.matillion.com/favicon-32x32.png" alt="Matillion ETL" style="width: 15%;">
+</a>
 
-### Herramientas de programación
+<h3>Herramientas de programación</h3>
 
-[![Spyder](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/500px-Spyder_logo.svg.png)](https://en.wikipedia.org/wiki/Spyder_\(software\))
-[![Jupyter Notebook](https://jupyter.org/assets/homepage/main-logo.svg)](https://es.wikipedia.org/wiki/Proyecto_Jupyter)
-[![VSCode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png)](https://es.wikipedia.org/wiki/Visual_Studio_Code)
-[![TeXMaker](https://www.xm1math.net/texmaker/favicon.png)](https://es.wikipedia.org/wiki/Texmaker)
+<a href="https://en.wikipedia.org/wiki/Spyder_(software)">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/500px-Spyder_logo.svg.png" alt="Spyder" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/Proyecto_Jupyter">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/Visual_Studio_Code">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" style="width: 15%;">
+</a>
+<a href="https://es.wikipedia.org/wiki/Texmaker">
+  <img src="https://www.xm1math.net/texmaker/favicon.png" alt="TeXMaker" style="width: 15%;">
+</a>
+
