@@ -26,7 +26,7 @@ En el marco de la ciencia de datos, física proporciona gran parte de las bases 
 
 Además de muchas herramientas matemáticas, proporciona una metodología sólida en lo que respecta a la definición y resolución de problemas de diferente índole, así como, la capacidad para definir los límites de aplicación de las soluciones de los problemas y las asumciones que son necesarias para poder resolverlos.
 
-### Máster en Inteligencia Artificial
+### Inteligencia Artificial
 
 Como se comentaba en la sección de física, es necesaria cierta especialización, el máster en IA proporciona conocimientos sobre el funcionamiento de las herramientas de IA más comúnes, así como la metodología y procedimientos asociados. Algunas de estas herramientas son las siguientes:
 
